@@ -20,6 +20,8 @@
 	<string>1</string>
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>&quot;We need to import photo&apos;s.&quot;</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>&quot;We need to save your altered photo&apos;s&quot;</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>UILaunchStoryboardName</key>
